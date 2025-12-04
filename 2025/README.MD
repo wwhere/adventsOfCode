@@ -13,3 +13,7 @@ I felt smart on part 1, which made having to go to brute force on part 2 quite s
 # Day 3
 
 Straightforward enough. Still, very anti-pythonic code!
+
+# Day 4
+
+Simple brute force is more than enough on this one
