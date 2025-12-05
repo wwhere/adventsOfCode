@@ -17,3 +17,7 @@ Straightforward enough. Still, very anti-pythonic code!
 # Day 4
 
 Simple brute force is more than enough on this one
+
+# Day 5
+
+Easy enough thanks to Python dealing with big numbers "for free". Got stuck on an error dealing with one of the possible range intersections on part 2.
