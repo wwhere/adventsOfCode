@@ -25,3 +25,7 @@ Easy enough thanks to Python dealing with big numbers "for free". Got stuck on a
 # Day 6
 
 Another simple problem today.
+
+# Day 7
+
+The power of the power of 2 stops this being solvable by just the more direct approach.
